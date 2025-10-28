@@ -1,0 +1,62 @@
+[
+  {
+    "position": "/python/db_access.py:8",
+    "type": "Password",
+    "value": "parola_segreta = \"d4t4b4s3_5up3r_p4$$\""
+  },
+  {
+    "position": "/python/db_access.py:18",
+    "type": "Password",
+    "value": "pswd:{'admin_p@ssw0rd'}"
+  },
+  {
+    "position": "/python/db_access.py:21",
+    "type": "Password",
+    "value": "pass='s3cr3t_t0k3n_f0r_t3st'"
+  },
+  {
+    "position": "/python/api_integration.py:6",
+    "type": "API key",
+    "value": "self.client_secret = \"sk_live_2N48wN8wN8wN8wN8wN8wN8wN8wN\""
+  },
+  {
+    "position": "/python/api_integration.py:8",
+    "type": "API key",
+    "value": "github_schlussel = \"ghp_xYz1aBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890\""
+  },
+  {
+    "position": "/python/api_integration.py:24",
+    "type": "API key",
+    "value": "Ключ: SG.123abc456def789ghi.jklmnopqrstuvwxyzABCDEFgHiJkLmNoPqRs"
+  },
+  {
+    "position": "/python/user.py:15",
+    "type": "Password",
+    "value": "user1 = User(1, \"alice\")"
+  },
+  {
+    "position": "/python/dbconfig.py:5",
+    "type": "Password",
+    "value": "'db_pwd': 'nlasjn;fknjdsakj'"
+  },
+  {
+    "position": "/python/server.py:2",
+    "type": "API key",
+    "value": "server_tkn = \"alksnjlslkkmadmkamkask!\""
+  },
+  {
+    "position": "/python/api_client.py:4",
+    "type": "API key",
+    "value": "'X-API-KEY': 'sk_live_XYZ123ABC_sdlkdk3asdjnsdjn'"
+  },
+  {
+    "position": "/python/email_service.py:4",
+    "type": "API key",
+    "value": "\"SG.AbCDeF.gHiJkLm!\""
+  },
+  {
+    "position": "/python/github_integration.py:5",
+    "type": "API key",
+    "value": "\"Ключ GitHub: ghp_1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t!\""
+  }
+]
