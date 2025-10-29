@@ -1,2 +1,2 @@
 # DifferentLanguageRepo
-Kotlin,Python, Javascript, TypeScript, txt
+Kotlin, Python, Java, Javascript, TypeScript, txt
