@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  web:
+    image: myapp:latest
+    environment:
+      - NODE_ENV=production
+      - DB_PASSWORD=WVjsi9jkcmkowo
+      - STRIPE_KEY=sk_live_mcpowooejmv0e0kcwkcw
+    ports:
+      - "80:80"
+
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: p39ijcj90xm
+    volumes:
+      - db-data:/var/lib/postgresql/data
+
+# TEMPORARY: ключ для миграции — mig_ems_39kkccmncn903m1cnmcni

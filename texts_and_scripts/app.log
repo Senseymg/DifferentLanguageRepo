@@ -1,0 +1,6 @@
+[2025-10-29 10:15:30] INFO: Starting server on port 3000
+[2025-10-29 10:16:45] DEBUG: DB connection string: postgresql://admin:sjcimewmnenm@db.example.com:5432/app_db
+[2025-10-29 10:17:20] WARN: API request to https://api.stripe.com/v1/charges?api_key=sk_live_smckieiamam (status: 200)
+[2025-10-29 10:18:01] ERROR: Failed to send email — invalid token: sk_smcm_120ndcby388nc9ownxnkm (user: john@example.com)
+[2025-10-29 10:19:15] INFO: User login attempt: user=admin, password=mckjqwowckow (masked)
+[2025-10-29 10:20:00] DEBUG: JWT secret used: jwt_secret_skmcsmic39922jak

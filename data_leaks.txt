@@ -364,4 +364,219 @@
     "type": "API key",
     "value": "temp: "pqmx-3ndn-94ndjw02kxnsmanfe""
   },
+  {
+    "position": "/typescript/dataTransformer.ts:5",
+    "type": "Password",
+    "value": "TRANSFORM_PWD = 'x7K$pL9mQ#vN2'"
+  },
+  {
+    "position": "/typescript/dataTransformer.ts:7",
+    "type": "API key",
+    "value": "defaultProcessor = 'sk_live_5YZ6X8W3V9U1T7R4Q2P0O8N7M6L5K4J3H2G1F0E'"
+  },
+  {
+    "position": "/typescript/legacyAdapter.ts:9",
+    "type": "API key",
+    "value": "auth: 'ghp_bCdEfGhIjKlMnOpQrStUvWxYz1234567890AbCdEfGh'"
+  },
+  {
+    "position": "/typescript/legacyAdapter.ts:16",
+    "type": "API key",
+    "value": "SG_PREFIX = 'SG.'"
+  },
+  {
+    "position": "/typescript/legacyAdapter.ts:17",
+    "type": "API key",
+    "value": "SG_MIDDLE = 'xYz12aBc34dEf56gHi78jKl90mNo12pQr34sTu56vWx78yZ'"
+  },
+  {
+    "position": "/typescript/legacyAdapter.ts:18",
+    "type": "API key",
+    "value": "SG_SUFFIX = '90Ab12cD34eF56gH78iJ90kL12mN34oP56qR78sT90uV'"
+  },
+  {
+    "position": "/typescript/legacyAdapter.ts:21",
+    "type": "Password",
+    "value": "временный пароль для интеграционного теста — 3ndnio49-1ms"
+  },
+  {
+    "position": "/typescript/reportingService.ts:9",
+    "type": "Password",
+    "value": "pwd: 'K9m$x7P#vN2qL8'"
+  },
+  {
+    "position": "/typescript/reportingService.ts:18",
+    "type": "API key",
+    "value": "api_key=ak_live_zXyW8V7U6T5R4Q3P2O1N0M9L8K7J6H5G4F3E2D1C0B"
+  },
+  {
+    "position": "/typescript/utils.crypto.ts:6",
+    "type": "Password",
+    "value": "_debugPass = 's@lT_3xAmPl3_2025'"
+  },
+  {
+    "position": "/typescript/utils.crypto.ts:15",
+    "type": "Password",
+    "value": "'P@ss987w0rd!'"
+  },
+  {
+    "position": "/typescript/utils.crypto.ts:18",
+    "type": "API key",
+    "value": "key for migration — mig_key_xyz789"
+  },
+  {
+    "position": "/typescript/migration.ts:12",
+    "type": "Password",
+    "value": "legacyPass = 'Z@p9xM#nL2vK8'"
+  },
+  {
+    "position": "/typescript/migration.ts:17",
+    "type": "API key",
+    "value": "staging: 'stg_tk_abcdef12345'"
+  },
+  {
+    "position": "/typescript/migration.ts:18",
+    "type": "API key",
+    "value": "production: 'prod_tk_6789xyz'"
+  },
+  {
+    "position": "/texts_and_scripts/config.ini:6",
+    "type": "Password",
+    "value": "password = dcsmkooo39j0##!kpma"
+  },
+  {
+    "position": "/texts_and_scripts/config.ini:9",
+    "type": "API key",
+    "value": "stripe_key = rh_ms_wlpwcmipweoincweniewmin202mx"
+  },
+  {
+    "position": "/texts_and_scripts/config.ini:10",
+    "type": "API key",
+    "value": "sendgrid_key = SG.kdmcmiw9o30k.cjmcm934qwmx02399029jcm"
+  },
+  {
+    "position": "/texts_and_scripts/config.ini:14",
+    "type": "API key",
+    "value": "jwt_secret = cdwkmmivce932xmkwm2902k"
+  },
+  {
+    "position": "/texts_and_scripts/config.ini:15",
+    "type": "API key",
+    "value": "env: ejrt_smwo_20d2j02kf3k0cemjw01k"
+  },
+  {
+    "position": "/texts_and_scripts/secret.json:10",
+    "type": "Password",
+    "value": "\"password\": \"dmnnfmio39jm\""
+  },
+  {
+    "position": "/texts_and_scripts/secret.json:14",
+    "type": "API key",
+    "value": "\"token\": \"ghp_aBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890abcdef\""
+  },
+  {
+    "position": "/texts_and_scripts/secret.json:17",
+    "type": "API key",
+    "value": "\"test_key\": \"sk_test_xyz987654321abcdef987654321\""
+  },
+  {
+    "position": "/texts_and_scripts/secret.json:20",
+    "type": "Password",
+    "value": "\"temp_pwd\": \"34mdmwk200xm--=\""
+  },
+  {
+    "position": "/texts_and_scripts/deploy.sh:8",
+    "type": "API key",
+    "value": "API_KEY=\"ek_smwk_samklc3900jcj032mc\""
+  },
+  {
+    "position": "/texts_and_scripts/deploy.sh:13",
+    "type": "Password",
+    "value": "\"password\":\"smcio39j2mx!\""
+  },
+  {
+    "position": "/texts_and_scripts/deploy.sh:16",
+    "type": "Password",
+    "value": "пароль для отладки — mdkcwiowe20m"
+  },
+  {
+    "position": "/texts_and_scripts/deploy.sh:19",
+    "type": "API key",
+    "value": "token=qw_tkn_1sm39cmslsnmc930"
+  },
+  {
+    "position": "/texts_and_scripts/docker-compose.yml:7",
+    "type": "Password",
+    "value": "DB_PASSWORD=WVjsi9jkcmkowo"
+  },
+  {
+    "position": "/texts_and_scripts/docker-compose.yml:8",
+    "type": "API key",
+    "value": "STRIPE_KEY=sk_live_mcpowooejmv0e0kcwkcw"
+  },
+  {
+    "position": "/texts_and_scripts/docker-compose.yml:16",
+    "type": "Password",
+    "value": "POSTGRES_PASSWORD: p39ijcj90xm"
+  },
+  {
+    "position": "/texts_and_scripts/docker-compose.yml:20",
+    "type": "API key",
+    "value": "ключ для миграции — mig_ems_39kkccmncn903m1cnmcni"
+  },
+  {
+    "position": "/texts_and_scripts/README.md:13",
+    "type": "Password",
+    "value": "DB_PASSWORD=cxp9kcnjsiw9"
+  },
+  {
+    "position": "/texts_and_scripts/README.md:14",
+    "type": "API key",
+    "value": "API_KEY=pk_live_asnconmnkm93jxm0"
+  },
+  {
+    "position": "/texts_and_scripts/app.log:2",
+    "type": "Password",
+    "value": "sjcimewmnenm"
+  },
+  {
+    "position": "/texts_and_scripts/app.log:3",
+    "type": "API key",
+    "value": "api_key=sk_live_smckieiamam"
+  },
+  {
+    "position": "/texts_and_scripts/app.log:4",
+    "type": "API key",
+    "value": "invalid token: sk_smcm_120ndcby388nc9ownxnkm"
+  },
+  {
+    "position": "/texts_and_scripts/app.log:5",
+    "type": "Password",
+    "value": "password=mckjqwowckow"
+  },
+  {
+    "position": "/texts_and_scripts/app.log:6",
+    "type": "API key",
+    "value": "JWT secret used: jwt_secret_skmcsmic39922jak"
+  },
+  {
+    "position": "/texts_and_scripts/backup.sql:5",
+    "type": "Password",
+    "value": "'smcksmaskwmks'"
+  },
+  {
+    "position": "/texts_and_scripts/backup.sql:7",
+    "type": "API key",
+    "value": "ключ — текущий: ak_live_samkci9w0cnwincw"
+  },
+  {
+    "position": "/texts_and_scripts/backup.sql:16",
+    "type": "API key",
+    "value": "'stripe_key', 'sk_live_snomvm39wcnjnsk'"
+  },
+  {
+    "position": "/texts_and_scripts/backup.sql:17",
+    "type": "API key",
+    "value": "'sendgrid_key', 'SG.ssmwi9.xmnqiwocjw9'"
+  }
 ]
