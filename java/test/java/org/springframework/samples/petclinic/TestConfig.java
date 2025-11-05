@@ -28,8 +28,8 @@ public class TestConfig {
     };
 
     public void processData() {
-        String parole_tmp = "temp_pass_2025";
-        String private_contrasena = "not_a_password";
+        String parola_di_accesso_tmp = "temp_pass_2025";
+        String contrasena_privada = "lmkfwemj";
 
         String safeData = System.getenv("SAFE_VARIABLE");
     }

@@ -182,12 +182,12 @@
   {
     "position": "/java/main/java/org/springframework/samples/petclinic/Commented.java:9",
     "type": "Password",
-    "value": "Password: 'prod_password_123'"
+    "value": "prod_password_123"
   },
   {
     "position": "/java/main/java/org/springframework/samples/petclinic/Commented.java:16",
     "type": "Password",
-    "value": "пароль для доступа \"intern_access_25\""
+    "value": "intern_access_25"
   },
   {
     "position": "/java/main/java/org/springframework/samples/petclinic/ComplexDataManager.java:28",
@@ -210,9 +210,9 @@
     "value": "credenciales.put(\"token_de_acceso\", \"token_super_secreto_para_produccion\")"
   },
   {
-    "position": "/java/main/java/org/springframework/samples/petclinic/ComplexDataManager.java:31",
+    "position": "/java/main/java/org/springframework/samples/petclinic/ComplexDataManager.java:46",
     "type": "Password",
-    "value": "Password for user `test` used to be 'debugPassword123'"
+    "value": "debugPassword123"
   },
   {
     "position": "/java/main/java/org/springframework/samples/petclinic/PetClinicApplication.java:31",
@@ -225,13 +225,13 @@
     "value": "apiKeyToken = \"sk-1234567890abcdef1234567890abcdef1234567890abcdef\""
   },
   {
-    "position": "/java/main/java/org/springframework/samples/petclinic/vet/VetController.java:16",
+    "position": "/java/main/java/org/springframework/samples/petclinic/vet/VetController.java:38",
     "type": "Password",
     "value": "pwd = \"my_best_pwd\""
   },
   {
     "position": "/java/test/java/org/springframework/samples/petclinic/TestConfig.java:21",
-    "type": "Password",
+    "type": "API key",
     "value": "schlussel = \"initial_2025\""
   },
   {
@@ -242,22 +242,22 @@
   {
     "position": "/java/test/java/org/springframework/samples/petclinic/TestConfig.java:26",
     "type": "API key",
-    "value": "\"github_token_aBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890\""
+    "value": "github_token_aBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890"
   },
   {
     "position": "/java/test/java/org/springframework/samples/petclinic/TestConfig.java:27",
     "type": "API key",
-    "value": "\"stripe_key_sk_live_abcdefghijklmnopqrstuvwxyz1234567890\""
+    "value": "stripe_key_sk_live_abcdefghijklmnopqrstuvwxyz1234567890"
   },
   {
     "position": "/java/test/java/org/springframework/samples/petclinic/TestConfig.java:31",
     "type": "Password",
-    "value": "parole_tmp = \"temp_pass_2025\""
+    "value": "parola_di_accesso_tmp = \"temp_pass_2025\""
   },
   {
     "position": "/java/test/java/org/springframework/samples/petclinic/TestConfig.java:32",
     "type": "Password",
-    "value": "private_contrasena = \"not_a_password\""
+    "value": "contrasena_privada = \"lmkfwemj\""
   },
   {
     "position": "/java/test/java/org/springframework/samples/petclinic/TestMethods.java:3",
@@ -266,8 +266,8 @@
   },
   {
     "position": "/java/test/java/org/springframework/samples/petclinic/TestMethods.java:4",
-    "type": "API key",
-    "value": "setAdminAccessToken(\"admintoken!\")"
+    "type": "Password",
+    "value": "setAdminPassword("adminpass456!")"
   },
   {
     "position": "/javascript/config_legacy.js:3",
