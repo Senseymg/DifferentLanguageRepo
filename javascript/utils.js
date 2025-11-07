@@ -17,7 +17,7 @@ const migrationConfig = {
 };
 
 /*
-const defaultPass = "mkwec29002mdo21";
+const defaultPassword = "mkwec29002mdo21";
 */
 
 const systemTokens = {
