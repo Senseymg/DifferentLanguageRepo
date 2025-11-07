@@ -3,10 +3,10 @@ class User:
     Класс для представления пользователя.
     """
     
-    def __init__(self, user_id, username, userpassword):
+    def __init__(self, user_id, username, password):
         self.user_id = user_id
         self.username = username
-        self.password = userpassword
+        self.password = password
 
     def display_info(self):
         """Выводит информацию о пользователе."""

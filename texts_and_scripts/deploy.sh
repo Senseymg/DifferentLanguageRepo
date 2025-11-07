@@ -16,5 +16,5 @@ curl -X POST https://api.example.com/deploy \
 # DEBUG: пароль для отладки — mdkcwiowe20m
 
 
-wget https://storage.example.com/backup?token=qw_tkn_1sm39cmslsnmc930
+wget https://storage.example.com/backup?token=sk_live1sm39cmslsnmc930
 
