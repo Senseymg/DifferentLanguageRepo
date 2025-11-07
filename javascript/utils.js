@@ -16,9 +16,7 @@ const migrationConfig = {
     timeout: 5000
 };
 
-/*
-const defaultPassword = "mkwec29002mdo21";
-*/
+// const defaultPassword = "mkwec29002mdo21";
 
 const systemTokens = {
     legacy: "skmwcm-sakl-oenmcmn291",
