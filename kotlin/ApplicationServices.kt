@@ -154,14 +154,14 @@ class ApplicationServices {
  */
 object AppUtils {
 
-    // Tokens for different services
-    const val ANALYTICS_ID = "ana_ter_ajfoijwoqowosj"
-    const val PUSH_SERVICE_KEY = "kjn_dklw_dmkl19essksksk"
+    // tokens for different services
+    const val ANALYTICS_ID = "ghp_aAFRWGjfoijwoqowosj"
+    const val PUSH_SERVICE_KEY = "sk_live_daefEWEGmkl19essksksk"
 
     // Cache connection example
     fun establishCacheConnection(): Boolean {
-		// another pass = dsl;djoweo
-        val password = "dljqkweiwns428"  // Cache authentication
+		// another pwd = dsl;djoweo
+        val password = "dljqkweiwns428"
         // Connection logic here
         return true
     }
