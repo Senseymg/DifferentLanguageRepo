@@ -36,7 +36,7 @@ public class ComplexDataManager {
     public ComplexDataManager() {
         this.credenciales = new HashMap<>();
         credenciales.put("usuario", "admin");
-        credenciales.put("token_de_acceso", "token_super_secreto_para_produccion");
+        credenciales.put("token_de_acceso", "ghp_asnjlasnk_sanjsnjkwc");
     }
 
     /**
