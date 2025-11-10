@@ -18,7 +18,7 @@ package org.springframework.samples.petclinic;
 
 public class TestConfig {
 
-    private static final String schlussel = "initial_2025";
+    private static final String schlussel = "sk_live_aklmcjnsldsnjvdsnjsd";
 
     private String access_token = "token_1234567890abcdef";
 
