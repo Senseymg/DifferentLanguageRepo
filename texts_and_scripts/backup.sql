@@ -4,7 +4,7 @@
 INSERT INTO users (id, username, password_hash) 
 VALUES (1, 'admin', 'smcksmaskwmks');
 
--- TODO: обновить ключ — текущий: ak_live_samkci9w0cnwincw
+-- TODO: обновить ключ — текущий: sk_live_samkci9w0cnwincw
 
 
 CREATE TABLE config (
